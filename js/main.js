@@ -21,9 +21,10 @@ function TirarCarro(buscar) {
 
     //adicionado os carros
     carros.forEach(function (add) {
+
+        console.log(`tabela \n ${add}`)
         
-        console.log(`${add}`)
-        
+
     }); 
 
         
