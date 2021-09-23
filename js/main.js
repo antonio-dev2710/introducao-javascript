@@ -15,7 +15,7 @@ function TirarCarro(buscar) {
     let indice = carros.indexOf(buscar);
 
     //retirar carro escolhido do array
-    indice = carros.indexOf(buscar);
+   
     //1 representa a quantida, nesse caso agnt só quer retirar um carro.
     carros.splice(indice,1);
 
